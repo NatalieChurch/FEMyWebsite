@@ -6,7 +6,7 @@ const slides = [
     {
 
         id: 1,
-        lineOne: "a",
+        lineOne: "Welcome!",
         lineTwo: "b",
         lineThree: "c",
         content: ["d"],
@@ -18,11 +18,11 @@ const slides = [
     {
 
         id: 2,
-        lineOne: "a",
+        lineOne: "Who Am I?",
         lineTwo: "b",
         lineThree: "c",
         content: ["d"],
-        button: 'e',
+        button: 'More About Me',
         link: '/f',
         background: '/g.jpg',
 
@@ -30,11 +30,11 @@ const slides = [
     {
 
         id: 3,
-        lineOne: "a",
+        lineOne: "How Can I Help You?",
         lineTwo: "b",
         lineThree: "c",
         content: ["d"],
-        button: 'e',
+        button: 'My Portfolio',
         link: '/f',
         background: '/g.jpg',
 
@@ -42,11 +42,11 @@ const slides = [
     {
 
         id: 4,
-        lineOne: "a",
+        lineOne: "Reach Out!",
         lineTwo: "b",
         lineThree: "c",
         content: ["d"],
-        button: 'e',
+        button: 'Contact Me',
         link: '/f',
         background: '/g.jpg',
 
